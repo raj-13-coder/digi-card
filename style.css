@@ -1,0 +1,27 @@
+body{
+    color: black;
+    font-family: 'Space Mono', monospace;
+}
+.image{
+    height: 150px;
+    border: 2px solid #728461;
+ 
+}
+.main{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 5px solid #728461;
+    width: 400px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #F8FAD7;
+
+    
+}
+.details{
+    
+    text-align: center;
+   
+}
